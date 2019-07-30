@@ -1,0 +1,16 @@
+.Chips-info{
+    height: 200px;
+	width: 400px;
+	top: 50%;
+    left: 35%;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 75px;
+	font-size: 180%;
+	background-color: black;
+    opacity: 0.5;
+    z-Index: 100;
+  position: fixed; /* or absolute */
+}
+

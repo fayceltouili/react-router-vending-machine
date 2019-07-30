@@ -1,0 +1,36 @@
+body {
+    background-image : url("https://images8.alphacoders.com/985/985376.png") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.Vend-infos {
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    margin-top: 30%;
+    margin-left: 10%;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 75px;
+    font-size: 180%;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.Vend-products{
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    margin-left: 55%;
+    margin-top: 30%;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 75px;
+    font-size: 180%;
+    background-color: black;
+    opacity: 0.5; 
+}

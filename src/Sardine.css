@@ -1,0 +1,23 @@
+ body {
+    background-image : url("https://media3.giphy.com/media/tVk4w6EZ7eGNq/giphy.gif?cid=790b76115d4094eb624952382e9ca703&rid=giphy.gif") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-Index: 100;
+
+}
+
+.Sardine-info{
+    height: 400px;
+	width: 400px;
+	top: 30%;
+    left: 35%;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 75px;
+	font-size: 180%;
+	background-color: black;
+    opacity: 0.5;
+    z-Index: 100;
+  position: fixed; /* or absolute */
+}

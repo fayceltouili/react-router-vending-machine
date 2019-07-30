@@ -1,0 +1,38 @@
+body {
+    background-image: none;
+}
+
+.Soda-info {
+	height: 200px;
+	width: 400px;
+	top: 50%;
+  left: 35%;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 75px;
+	font-size: 180%;
+	background-color: black;
+	opacity: 0.5;
+  position: fixed; /* or absolute */
+ 
+}
+
+.Soda-left{
+	margin-left: 20%;
+  animation: rotation 1s infinite linear;
+}
+
+.Soda-right{
+	margin-left: 40%;
+  animation: rotation 1s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
